@@ -1,6 +1,6 @@
 package com.interview.questions;
 
-public class Test1 {
+public class LockerProblem {
 
 	public static void main(String[] args) {
 
