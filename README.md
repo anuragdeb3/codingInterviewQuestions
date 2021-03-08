@@ -22,3 +22,9 @@ output    a=2
 7) Return reverse of a string and convert uppercase letter to lowercase and vice versa    (HackerRank Question)
     Input is:Kate Winslet
     Output is: TELSNIw ETAk
+    
+8 ) Given a string, reverse the string but space order has to be maintained.
+    Input ="I am Anurag"   
+    Output = "g ar unAmaI"
+    Use O(n) not more.
+    

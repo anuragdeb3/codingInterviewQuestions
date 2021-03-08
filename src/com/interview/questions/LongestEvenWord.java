@@ -5,7 +5,7 @@ public class LongestEvenWord {
 	public static void main(String[] args) {
 		
 
-		String sentence =	"This is Pleasant Work "	;
+		String sentence =	"This is Pleasant Work " ;
 				
 		System.out.println("Original Sentance : "+sentence);
 		System.out.println("longest Even Word:"+ longestEvenWord(sentence));
